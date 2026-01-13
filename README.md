@@ -44,24 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=blessy-2103&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessy-2103&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ## 🧩 LeetCode Journey
 
 <p align="center">

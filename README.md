@@ -47,15 +47,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blessy-2103&show_icons=true&theme=dark&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=blessy-2103&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blessy-2103&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessy-2103&layout=compact&theme=dark&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessy-2103&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -81,8 +83,12 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blessy-2103&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=blessy-2103&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
+
 
 ---
 

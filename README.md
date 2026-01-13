@@ -47,15 +47,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blessy-2103&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blessy-2103&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=blessy-2103&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blessy-2103&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessy-2103&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessy-2103&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -81,7 +81,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=blessy-2103&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=blessy-2103&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---

@@ -9,9 +9,9 @@
 ## 💫 About Me
 
 👩‍💻 Computer Science Engineering student  
-🌱 Interested in learning and building projects  
-🚀 Enjoy exploring new technologies  
-✨ Focused on continuous improvement  
+🌱 Passionate about learning and building real-world projects  
+🚀 Exploring AI, Web Development, and Emerging Technologies  
+✨ Focused on continuous learning and improvement  
 
 ---
 
@@ -24,6 +24,9 @@
   <a href="mailto:blessychristrus21@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/blessy-2103" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -33,35 +36,33 @@
 ### 🧑‍💻 Languages & Databases
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 🧩 LeetCode Journey
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=LeetCode+Problem+Solving;Building+Strong+DSA+Foundation;Consistency+Over+Intensity" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blessy-2103&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessy-2103&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/blessy21/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/blessy21?theme=dark&font=Karma&ext=activity" />
+  <img src="https://streak-stats.demolab.com?user=blessy-2103&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -69,12 +70,8 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=blessy-2103&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=blessy-2103&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
-
 
 ---
 

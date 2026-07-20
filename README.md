@@ -39,7 +39,7 @@ Computer Science Engineering student with a focus on full stack development and 
 ### GitHub Activity
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=blessy-2103&theme=default&hide_border=true&background=ffffff00&ring=2E86C1&fire=2E86C1&hide=currStreak,longestStreak" height="165"/>
+<img src="https://streak-stats.demolab.com?user=blessy-2103&hide_border=true&ring=2E86C1&fire=2E86C1&hide=currStreak,longestStreak" height="165"/>
 </div>
 
 <br/>

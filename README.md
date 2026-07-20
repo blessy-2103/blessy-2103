@@ -39,12 +39,7 @@ Computer Science Engineering student with a focus on full stack development and 
 ### GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=blessy-2103&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&title_color=2E86C1&icon_color=2E86C1&text_color=333333" height="165"/>
-<img src="https://streak-stats.demolab.com?user=blessy-2103&theme=default&hide_border=true&background=ffffff00&ring=2E86C1&fire=2E86C1&currStreakLabel=2E86C1" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=blessy-2103&theme=minimal&hide_border=true&color=2E86C1&line=2E86C1&point=1B4F72" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=blessy-2103&theme=default&hide_border=true&background=ffffff00&ring=2E86C1&fire=2E86C1&hide=currStreak,longestStreak" height="165"/>
 </div>
 
 <br/>

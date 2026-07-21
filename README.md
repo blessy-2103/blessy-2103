@@ -27,14 +27,7 @@ Computer Science Engineering student with a focus on full stack development and 
 <img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,html,css,angular,spring,mysql,git,github,postman&theme=light" />
 </div>
 
-<br/>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Prompt_Engineering-2E86C1?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM_Integration-2E86C1?style=flat-square&logoColor=white"/>
-</div>
-
-<br/>
 
 ### GitHub Activity
 
